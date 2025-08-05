@@ -26,5 +26,6 @@ This is a basic AI chatbot that can answer questions, tell jokes, summarize shor
   - The chatbot fetches information from a small knowledge base (text file or note) to provide more accurate responses.
 
 ---
-This is a test to force Git to detect README.md change.
+
+
 
