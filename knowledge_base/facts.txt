@@ -1,5 +1,0 @@
-OpenAI developed ChatGPT using the GPT architecture.
-Python is a high-level, interpreted programming language popular for AI and data science.
-The capital of France is Paris.
-Radix sort sorts numbers by processing individual digits, often using counting sort as a subroutine.
-Counting sort is efficient when the input range (k) is not significantly larger than the number of items (n).
