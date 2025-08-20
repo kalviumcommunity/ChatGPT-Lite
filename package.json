@@ -1,0 +1,14 @@
+{
+  "name": "chatgpt-lite",
+  "version": "1.0.0",
+  "description": "Zero-shot ChatGPT-Lite using Groq REST API",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^1.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
